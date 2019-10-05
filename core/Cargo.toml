@@ -1,0 +1,10 @@
+[package]
+name = "rust-plugins-core"
+version = "0.1.0"
+authors = ["René Perschon <rperschon85@gmail.com>"]
+edition = "2018"
+
+[build-dependencies]
+rustc_version = "0.2.3"
+
+[dependencies]
